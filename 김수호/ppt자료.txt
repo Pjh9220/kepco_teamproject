@@ -1,0 +1,13 @@
+https://www.hankyung.com/economy/article/2023072486061 - 수도권데이터센터 밀집이유로 인한 송전망 과부하
+
+http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20230215.22003003907 - 전력 자급률의 대한 전기요금 차등제 필요
+
+http://news.lghellovision.net/news/articleView.html?idxno=410574 - 전력 자급률의 대한 기사
+
+https://www.econovill.com/news/articleView.html?idxno=609080 - 부족한 전력 공급을위한 송배전망 건설 필요 
+
+http://www.kidd.co.kr/news/229585 - 송배전 손실량 10년간 평균 3.59%, 원전 21기 1년 가동량
+https://www.incheonilbo.com/news/articleView.html?idxno=1062219
+
+
+데이터 설계 툴 - erdcloud
